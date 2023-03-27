@@ -1,6 +1,6 @@
 ![badge](https://github.com/chloekang234/microservices-TodoList-in-Flask/actions/workflows/main.yml/badge.svg)
 
-# Microservice ToDo List App in Flask API
+# Continuous Delivery List App in Flask API
 
 ## Objectvices of Project
 Todo List app that can track completed and incomplete tasks using Flask API. Flask-SQLAlchemy extension was used to utilize database. New task can be added through Add item interface. To update incomplete items to completed items, **Mark As Complete** button is used. Items can be deleted by **Delete** button.
